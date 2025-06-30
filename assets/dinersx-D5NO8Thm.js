@@ -1,0 +1,1 @@
+import{e as t,j as e,a as r}from"./client-AGA89e5t.js";/* empty css              */const s=()=>e.jsx("div",{className:"flex w-full h-screen justify-center items-center bg-black",children:"Hello"});t.createRoot(document.getElementById("root")).render(e.jsx(r.StrictMode,{children:e.jsx(s,{})}));
