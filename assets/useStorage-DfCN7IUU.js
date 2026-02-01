@@ -1,0 +1,1 @@
+import{h as a,i as o,k as t,l as n,t as u}from"./main-DitrHZa1.js";import{g as s}from"./error-DIANrdIo.js";function d(r,e=!0){return a({...o(r),enabled:e&&!!r})}function m(){return t({mutationFn:r=>n({data:r}),onError:r=>{u.error("Failed to get upload URL",{description:s(r)})}})}function p(){return t({mutationFn:async r=>({success:!0})})}export{m as a,p as b,d as u};

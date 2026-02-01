@@ -1,1 +1,0 @@
-import{g as a,h as o,i as t,k as n,t as u}from"./main-DqTbgPgi.js";import{g as s}from"./error-DIANrdIo.js";function d(r,e=!0){return a({...o(r),enabled:e&&!!r})}function g(){return t({mutationFn:r=>n({data:r}),onError:r=>{u.error("Failed to get upload URL",{description:s(r)})}})}function m(){return t({mutationFn:async r=>({success:!0})})}export{g as a,m as b,d as u};
