@@ -1,0 +1,1 @@
+function a(t){const o=new Date,r=new Date(t),e=Math.floor((o.getTime()-r.getTime())/(1e3*60*60*24));return e===0?"Today":e===1?"Yesterday":e<7?`${e} days ago`:e<30?`${Math.floor(e/7)} weeks ago`:e<365?`${Math.floor(e/30)} months ago`:`${Math.floor(e/365)} years ago`}export{a as f};
