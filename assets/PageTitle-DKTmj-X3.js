@@ -1,0 +1,1 @@
+import{j as t}from"./main-Iad9WDu0.js";function l({title:s,description:e,className:r="",center:x=!1}){return t.jsxs("header",{className:`${x?"text-center":"text-left"} ${r}`,children:[t.jsx("h1",{className:"text-2xl sm:text-3xl font-bold tracking-tight",children:s}),e&&t.jsx("p",{className:"mt-2 text-muted-foreground",children:e})]})}export{l as P};
