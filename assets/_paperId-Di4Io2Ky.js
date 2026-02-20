@@ -1,0 +1,1 @@
+import{e,j as o}from"./main-DMeHdkGn.js";import{A as p}from"./ArrowgramShareWorkspaceClient-XRqgLbNa.js";function s(){const{paperId:r}=e.useParams();return o.jsx(p,{projectType:"paper",projectId:r})}export{s as component};
