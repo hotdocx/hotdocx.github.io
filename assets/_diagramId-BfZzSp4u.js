@@ -1,0 +1,1 @@
+import{g as a,j as o}from"./main-BlUb1PrY.js";import{A as e}from"./ArrowgramShareWorkspaceClient-C8Fb58y5.js";function s(){const{diagramId:r}=a.useParams();return o.jsx(e,{projectType:"diagram",projectId:r})}export{s as component};
