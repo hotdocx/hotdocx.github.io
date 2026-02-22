@@ -1,0 +1,1 @@
+import{g as a,j as o}from"./main-BkWfoANC.js";import{A as e}from"./ArrowgramShareWorkspaceClient-CtPpc1ki.js";function s(){const{diagramId:r}=a.useParams();return o.jsx(e,{projectType:"diagram",projectId:r})}export{s as component};
