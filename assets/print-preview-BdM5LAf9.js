@@ -1,0 +1,1 @@
+import{j as r}from"./main-DDYbSNjW.js";import{A as e}from"./ArrowgramWorkspaceAppClient-Cotls8g4.js";function o(){return r.jsx("div",{className:"min-h-screen w-full",children:r.jsx(e,{mode:"print-preview"})})}export{o as component};

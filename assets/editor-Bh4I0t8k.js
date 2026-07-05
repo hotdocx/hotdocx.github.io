@@ -1,1 +1,0 @@
-import{j as r}from"./main-3bKZRgYh.js";import{A as e}from"./ArrowgramWorkspaceAppClient-B4Kdy8pE.js";function n(){return r.jsx("div",{className:"h-screen w-screen overflow-hidden",children:r.jsx(e,{})})}export{n as component};
