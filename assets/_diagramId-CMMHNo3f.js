@@ -1,0 +1,1 @@
+import{e as a,j as o}from"./main-Ba75cpGE.js";import{A as e}from"./ArrowgramShareWorkspaceClient-DktHsp9r.js";function s(){const{diagramId:r}=a.useParams();return o.jsx(e,{projectType:"diagram",projectId:r})}export{s as component};
